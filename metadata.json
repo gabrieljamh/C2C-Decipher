@@ -1,0 +1,5 @@
+{
+  "name": "C2C Decipher",
+  "description": "A specialized assistant tool for the game 'Continue to Click' to decipher codes and generate overrides.",
+  "requestFramePermissions": []
+}
